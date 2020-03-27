@@ -7,7 +7,7 @@ h1{
 
 
 body{
-  background-color: rgb(51, 196, 233);
+  background-color: rgb(117, 39, 189);
 }
 
 footer{
@@ -23,3 +23,9 @@ footer{
   margin-right: auto;
   width: 50%;
 }
+
+.nav-ufo1{
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
